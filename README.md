@@ -1,1 +1,0 @@
-# serilog-ui-architecture-analysis
